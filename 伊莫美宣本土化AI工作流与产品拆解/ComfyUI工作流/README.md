@@ -23,4 +23,4 @@
 
 [ComfyUI官方Qwen教程](https://docs.comfy.org/tutorials/image/qwen/qwen-image-edit-2511) · [Qwen模型说明](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
 
-模型权重不包含在本仓库。提示词中的特征约束需要人工检查，不等于角色一致性已获得保证。此文件是生成执行层，并未接通原型中的任务审批、审核记录或规则库。
+提示词中的特征约束需要人工检查，不等于角色一致性已获得保证。此文件是生成执行层，并未接通原型中的任务审批、审核记录或规则库。
